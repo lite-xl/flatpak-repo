@@ -1,0 +1,12 @@
+[Flatpak Ref]
+Version=1
+Title=Lite XL
+Description=A lightweight text editor written in Lua
+Comment=Lite XL is a text editor and development tool written mainly in Lua, on top of a minimalistic C core using the SDL2 graphics library.
+Homepage=https://lite-xl.com
+Icon=https://lite-xl.com/assets/img/logo.svg
+Name=com.lite_xl.LiteXL_nightly
+Url=https://flatpak.lite-xl.com
+SuggestRemoteName=lite-xl-repo
+RuntimeRepo=https://flathub.org/repo/flathub.flatpakrepo
+GPGKey=mDMEZpSErhYJKwYBBAHaRw8BAQdAQQIti8ioz5K2+VjCZm5BGpE7fCAJ3fwEcn1P//McjcC0E2xpdGUteGxAbGl0ZS14bC5jb22ImQQTFgoAQRYhBKLBotskPcUQY9p9mtYgV3rziwgbBQJmlISuAhsDBQkFo5qABQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJENYgV3rziwgbilsBAIXlwPPtvlBcT+m8nVN0WcAcPmW354RpzOdyZT3Cm7+xAP9wmdI+f/NeBAvf7g4UF/of1a93kwlYJuZSCc8EySk5DLg4BGaUhK4SCisGAQQBl1UBBQEBB0CzrMrEbFeYmdFT+bKO37ApBbmpQw9+ep87eCuSzGGFPgMBCAeIeAQYFgoAIBYhBKLBotskPcUQY9p9mtYgV3rziwgbBQJmlISuAhsMAAoJENYgV3rziwgbH50BAPmWhtdPq1a+MzH7rsii/tOVQXVO96dc7aAdw+erjjPbAP9nNrOfmsZL7Y3HBFJfvjJ92ZLGUpD7cceNGFTt3c2rCg==
