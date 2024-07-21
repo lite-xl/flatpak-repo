@@ -9,7 +9,8 @@
   "rename-desktop-file": "org.lite_xl.lite_xl.desktop",
   "finish-args": [
     "--share=ipc",
-    "--socket=fallback-x11",
+    "--socket=x11",
+    "--socket=wayland",
     "--device=dri",
     "--share=network"
   ],
